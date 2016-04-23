@@ -12,12 +12,12 @@ public class Sum {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		int i;
-		String s1,s2;
+		String s1;
 		InputStreamReader isr=new InputStreamReader(System.in);
 		BufferedReader buf=new BufferedReader(isr);
 		s1=buf.readLine();
 		i=Integer.parseInt(s1);
-		i+=1;
+		i=i-1;
 		System.out.println(i);
 	}
 
