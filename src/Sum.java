@@ -8,7 +8,7 @@ public class Sum {
 	/**
 	 * @param args
 	 * @throws IOException 
-	 * master来回来回
+	 * master
 	 */
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
